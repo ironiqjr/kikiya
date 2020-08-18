@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kikiya/static/css/main.974343a9.chunk.css",
+    "main.js": "/kikiya/static/js/main.debae9f6.chunk.js",
+    "main.js.map": "/kikiya/static/js/main.debae9f6.chunk.js.map",
+    "runtime-main.js": "/kikiya/static/js/runtime-main.1b9b0b4c.js",
+    "runtime-main.js.map": "/kikiya/static/js/runtime-main.1b9b0b4c.js.map",
+    "static/js/2.13815831.chunk.js": "/kikiya/static/js/2.13815831.chunk.js",
+    "static/js/2.13815831.chunk.js.map": "/kikiya/static/js/2.13815831.chunk.js.map",
+    "index.html": "/kikiya/index.html",
+    "precache-manifest.56ab15a335c475aa621b0b5d32f2563c.js": "/kikiya/precache-manifest.56ab15a335c475aa621b0b5d32f2563c.js",
+    "service-worker.js": "/kikiya/service-worker.js",
+    "static/css/main.974343a9.chunk.css.map": "/kikiya/static/css/main.974343a9.chunk.css.map",
+    "static/js/2.13815831.chunk.js.LICENSE.txt": "/kikiya/static/js/2.13815831.chunk.js.LICENSE.txt",
+    "static/media/bubu.JPG": "/kikiya/static/media/bubu.0791f02d.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b9b0b4c.js",
+    "static/js/2.13815831.chunk.js",
+    "static/css/main.974343a9.chunk.css",
+    "static/js/main.debae9f6.chunk.js"
+  ]
+}
